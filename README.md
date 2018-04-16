@@ -1,5 +1,5 @@
 # Instructions for download
-After you've downloaded the files, unzip them if necessary, and make sure they all stay within the same folder. Don't rename anything. To see the website, simply run index.html by double clicking on it, and it should open up in your default web browser.
+After you've downloaded the files, unzip them if necessary, and **make sure they all stay within the same folder**. Don't rename anything. To see the website, simply run index.html by double clicking on it, and it should open up in your default web browser.
 
 ## About
 This website is being made for the Jenison Science Olympiad team. It is currently in progress, so the version you download might not be the most up-to-date version, and it most likely looks incomplete. Jaden Henderson is doing most of the website design, Boldt is working on the calendar.
